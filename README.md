@@ -2,7 +2,9 @@
 Project: Build CryptoStar Dapp on Ethereum
 
 Token Name: SonNH65 Token
+
 Token Symbol: VND
+
 Token Hash: 0xdb7e082a05643f235670cb8e2cdd1af1bd499eb431b8f1c9181f642712558058
 
 # Requirements
