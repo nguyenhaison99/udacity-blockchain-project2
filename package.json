@@ -1,0 +1,21 @@
+{
+  "name": "erc721-code-template",
+  "version": "1.0.0",
+  "description": "Code template for a ERC721 Dapp.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.8",
+    "dotenv": "^16.0.3",
+    "openzeppelin-solidity": "^4.8.1",
+    "ws": "^8.12.1"
+  }
+}
